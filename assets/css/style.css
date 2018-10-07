@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css?family=PT+Sans:400,700');
+
+.header.hi {
+    font-size: 5em;
+}
+
+.header {
+    font-family: PT Sans;
+    font-size: 3em;
+    line-height: 1.2;
+}
+
+.header.type {
+    font-family: PT Sans;
+    font-weight: 600;
+    font-size: 3em;
+}
+
+.centered {
+    margin: 150 0;
+    max-width: 300px;
+    position: absolute;
+}
