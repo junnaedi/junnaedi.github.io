@@ -18,6 +18,15 @@
   -webkit-text-size-adjust: 100%;
 }
 
+::selection {
+  background-color: #344e41;
+  color: #fff;
+}
+::-moz-selection {
+  background-color: #344e41;
+  color: #fff;
+}
+
 a {
   font-weight: 500;
   color: #646cff;

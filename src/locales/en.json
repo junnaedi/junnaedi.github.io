@@ -1,0 +1,12 @@
+{
+    "home": "Home",
+    "about": "About",
+    "projects": "Projects",
+    "support": "Support",
+    "contact me": "Contact Me",
+    "intro": "Hello, My name is {{name}}",
+    "heading": "Full Stack Developer based in Surabaya, Indonesia",
+    "heading desc": "I would be happy to help you building your next successful product. I have experience working with modern technologies and tools to build scalable and maintainable applications.",
+    "heading about": "About me",
+    "see projects": "See my Projects"
+}
