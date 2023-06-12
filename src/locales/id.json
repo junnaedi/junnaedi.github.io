@@ -5,11 +5,13 @@
     "support": "Dukungan",
     "contact me": "Hubungi Saya",
     "intro": "Halo, Nama saya {{name}}",
-    "heading": "Full Stack Developer tinggal di Surabaya, Indonesia",
+    "heading": "Full Stack Developer di Platform Web, Android dan IOS",
     "heading desc": "Saya sangat senang membantu anda untuk membuat produk sesuai yang anda butuhkan. Saya juga memiliki pengalaman dengan teknologi dan alat pengembangan yang terbaru untuk membangun aplikasi yang dapat diandalkan serta mudah digunakan.",
     "heading about": "Tentang Saya",
     "subheading about": "Berkenalan lebih dekat",
     "see projects": "Lihat Portofolio",
     "subheading skill": "Alat untuk Pengembangan",
-    "heading skill": "Teknologi yang saya gunakan untuk mengerjakan sebuah project yang valuable"
+    "heading skill": "Teknologi yang saya gunakan untuk mengerjakan sebuah project yang valuable",
+    "subheading project": "Portofolio Saya",
+    "heading project": "Project yang pernah dikerjakan"
 }

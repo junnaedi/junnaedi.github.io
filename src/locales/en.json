@@ -5,11 +5,13 @@
     "support": "Support",
     "contact me": "Contact Me",
     "intro": "Hello, My name is {{name}}",
-    "heading": "Full Stack Developer based in Surabaya, Indonesia",
+    "heading": "Full Stack Developer in Web, Android and IOS Platform",
     "heading desc": "I would be happy to help you building your next successful product. I have experience working with modern technologies and tools to build scalable and maintainable applications.",
     "heading about": "About me",
     "subheading about": "Get closer",
     "see projects": "See my Projects",
     "subheading skill": "Development Tools",
-    "heading skill": "Technology I use to work on your valuable project"
+    "heading skill": "Technology I use to work on your valuable project",
+    "subheading project": "My Portofolio",
+    "heading project": "Any Projects I have done so far"
 }
